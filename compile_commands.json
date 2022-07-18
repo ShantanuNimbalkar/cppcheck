@@ -1,0 +1,357 @@
+[
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -Wno-suggest-attribute=format -std=gnu++11 -o CMakeFiles/tinyxml2_objs.dir/tinyxml2.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2/tinyxml2.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2/tinyxml2.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/simplecpp_objs.dir/simplecpp.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp/simplecpp.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp/simplecpp.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/analyzerinfo.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/analyzerinfo.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/analyzerinfo.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/astutils.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/astutils.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/astutils.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/check.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/check.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/check.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/check64bit.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/check64bit.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/check64bit.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checkassert.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checkassert.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checkassert.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checkautovariables.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checkautovariables.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checkautovariables.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checkbool.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checkbool.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checkbool.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checkboost.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checkboost.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checkboost.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checkbufferoverrun.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checkbufferoverrun.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checkbufferoverrun.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checkclass.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checkclass.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checkclass.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checkcondition.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checkcondition.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checkcondition.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checkexceptionsafety.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checkexceptionsafety.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checkexceptionsafety.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checkfunctions.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checkfunctions.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checkfunctions.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checkinternal.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checkinternal.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checkinternal.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checkio.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checkio.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checkio.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checkleakautovar.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checkleakautovar.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checkleakautovar.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checkmemoryleak.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checkmemoryleak.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checkmemoryleak.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checknullpointer.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checknullpointer.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checknullpointer.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checkother.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checkother.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checkother.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checkpostfixoperator.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checkpostfixoperator.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checkpostfixoperator.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checksizeof.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checksizeof.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checksizeof.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checkstl.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checkstl.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checkstl.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checkstring.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checkstring.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checkstring.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checktype.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checktype.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checktype.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checkuninitvar.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checkuninitvar.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checkuninitvar.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checkunusedfunctions.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checkunusedfunctions.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checkunusedfunctions.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checkunusedvar.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checkunusedvar.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checkunusedvar.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/checkvaarg.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/checkvaarg.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/checkvaarg.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/clangimport.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/clangimport.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/clangimport.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/color.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/color.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/color.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/cppcheck.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/cppcheck.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/cppcheck.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/ctu.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/ctu.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/ctu.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/errorlogger.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/errorlogger.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/errorlogger.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/errortypes.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/errortypes.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/errortypes.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/forwardanalyzer.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/forwardanalyzer.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/forwardanalyzer.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/importproject.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/importproject.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/importproject.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/infer.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/infer.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/infer.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/library.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/library.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/library.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/mathlib.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/mathlib.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/mathlib.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/path.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/path.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/path.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/pathanalysis.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/pathanalysis.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/pathanalysis.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/pathmatch.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/pathmatch.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/pathmatch.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/platform.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/platform.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/platform.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/preprocessor.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/preprocessor.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/preprocessor.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/programmemory.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/programmemory.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/programmemory.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/reverseanalyzer.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/reverseanalyzer.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/reverseanalyzer.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/settings.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/settings.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/settings.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/summaries.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/summaries.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/summaries.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/suppressions.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/suppressions.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/suppressions.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/symboldatabase.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/symboldatabase.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/symboldatabase.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/templatesimplifier.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/templatesimplifier.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/templatesimplifier.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/timer.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/timer.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/timer.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/token.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/token.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/token.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/tokenize.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/tokenize.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/tokenize.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/tokenlist.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/tokenlist.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/tokenlist.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/utils.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/utils.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/utils.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/lib",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/lib -isystem /home/shantanu/github/fork/cpp/cppcheck/externals -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/picojson -isystem /home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/lib_objs.dir/valueflow.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/valueflow.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/valueflow.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/cli",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/cli -I/home/shantanu/github/fork/cpp/cppcheck/lib -I/home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -I/home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/cli_objs.dir/cmdlineparser.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/cli/cmdlineparser.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/cli/cmdlineparser.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/cli",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/cli -I/home/shantanu/github/fork/cpp/cppcheck/lib -I/home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -I/home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/cli_objs.dir/cppcheckexecutor.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/cli/cppcheckexecutor.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/cli/cppcheckexecutor.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/cli",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/cli -I/home/shantanu/github/fork/cpp/cppcheck/lib -I/home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -I/home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/cli_objs.dir/executor.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/cli/executor.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/cli/executor.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/cli",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/cli -I/home/shantanu/github/fork/cpp/cppcheck/lib -I/home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -I/home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/cli_objs.dir/filelister.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/cli/filelister.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/cli/filelister.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/cli",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/cli -I/home/shantanu/github/fork/cpp/cppcheck/lib -I/home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -I/home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/cli_objs.dir/processexecutor.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/cli/processexecutor.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/cli/processexecutor.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/cli",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/cli -I/home/shantanu/github/fork/cpp/cppcheck/lib -I/home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -I/home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/cli_objs.dir/threadexecutor.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/cli/threadexecutor.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/cli/threadexecutor.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/cli",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/cli -I/home/shantanu/github/fork/cpp/cppcheck/lib -I/home/shantanu/github/fork/cpp/cppcheck/externals/tinyxml2 -I/home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/cppcheck.dir/main.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/cli/main.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/cli/main.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/tools",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/tools -I/home/shantanu/github/fork/cpp/cppcheck/cli -I/home/shantanu/github/fork/cpp/cppcheck/lib -I/home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/dmake.dir/dmake.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/tools/dmake.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/tools/dmake.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/tools",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/tools -I/home/shantanu/github/fork/cpp/cppcheck/cli -I/home/shantanu/github/fork/cpp/cppcheck/lib -I/home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/dmake.dir/__/cli/filelister.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/cli/filelister.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/cli/filelister.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/tools",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/tools -I/home/shantanu/github/fork/cpp/cppcheck/cli -I/home/shantanu/github/fork/cpp/cppcheck/lib -I/home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/dmake.dir/__/lib/pathmatch.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/pathmatch.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/pathmatch.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/tools",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/tools -I/home/shantanu/github/fork/cpp/cppcheck/cli -I/home/shantanu/github/fork/cpp/cppcheck/lib -I/home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/dmake.dir/__/lib/path.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/path.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/path.cpp"
+},
+{
+  "directory": "/home/shantanu/github/fork/cpp/cppcheck/tools",
+  "command": "/usr/bin/c++  -DFILESDIR=\\\"/usr/local/share/Cppcheck\\\" -D_GLIBCXX_DEBUG -I/home/shantanu/github/fork/cpp/cppcheck/tools -I/home/shantanu/github/fork/cpp/cppcheck/cli -I/home/shantanu/github/fork/cpp/cppcheck/lib -I/home/shantanu/github/fork/cpp/cppcheck/externals/simplecpp  -g   -pedantic -Wall -Wextra -Wcast-qual -Wfloat-equal -Wmissing-declarations -Wmissing-format-attribute -Wno-long-long -Wpacked -Wredundant-decls -Wundef -Wno-missing-field-initializers -Wno-missing-braces -Wno-sign-compare -Wno-multichar -Woverloaded-virtual -Wno-maybe-uninitialized -Wsuggest-attribute=noreturn -Wno-shadow -std=gnu++11 -o CMakeFiles/dmake.dir/__/lib/utils.cpp.o -c /home/shantanu/github/fork/cpp/cppcheck/lib/utils.cpp",
+  "file": "/home/shantanu/github/fork/cpp/cppcheck/lib/utils.cpp"
+}
+]
