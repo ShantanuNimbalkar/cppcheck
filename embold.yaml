@@ -35,6 +35,6 @@ sources:
 
 modules:
     - name: gamma_cxx
-    enabled: true
+      enabled: true
 
 ## Please visit https://docs.embold.io/v2-quick-start-guide/#update-configurations to know more
